@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MarioDanielPanuco
-- 👀 I’m interested in Artificial Intelligence, Machine Learning, and Bio-Informatics
+- 👀 I’m interested in machine learning for Bio-Informatics and systems programming in Rust
 - 🌱 I’m currently learning Computer Science at UCSC 
 - 💞️ I’m looking to collaborate on open-source Bio-Informatics projects
 - 📫 How to reach me mpanuco@ucsc.edu 
