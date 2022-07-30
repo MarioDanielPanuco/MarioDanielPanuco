@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MarioDanielPanuco
-- 👀 I’m interested in machine learning for Bio-Informatics and systems programming in Rust
+- 👀 I’m interested in machine learning and systems programming in Rust
 - 🌱 I’m currently studying Computer Science at UCSC 
 
 
