@@ -1,10 +1,9 @@
 # Mario Panuco
 
-MS in Scientific Computing & Applied Mathematics (UCSC). I work at the seam between
-numerical analysis and machine learning — and I care about the systems underneath.
+MS in Scientific Computing & Applied Mathematics (UCSC). 
 
-**Research** — neural operators (FNO/WNO) for PDE surrogates, pseudo-spectral solvers,
-chaotic-system evaluation. Write-ups at [mdpan.dev](https://mdpan.dev).
+**Research** — neural operators for PDE surrogates, pseudo-spectral solvers,
+chaotic-system evaluation. Articles at [mdpan.dev](https://mdpan.dev).
 
 **Engineering** — Rust for tooling and TUIs, JAX/Julia on GPU for experiments, Mojo
 for SIMD/GPU kernels, TypeScript for MCP servers.
