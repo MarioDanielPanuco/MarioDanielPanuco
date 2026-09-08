@@ -23,6 +23,4 @@ for SIMD/GPU kernels, TypeScript for MCP servers.
 - [Graph Diffusion for Payment-Integrity Risk Scoring](https://mdpan.dev/projects/graph-diffusion-payment-integrity/) — Jun 14, 2026
 <!-- BLOG-POST-LIST:END -->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarioDanielPanuco&layout=compact&langs_count=8&hide_border=true&theme=transparent" alt="Most used languages" />
-
 Santa Cruz / San Jose · mdpanuco@gmail.com
