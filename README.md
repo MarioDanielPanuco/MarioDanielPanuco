@@ -9,7 +9,7 @@ chaotic-system evaluation — learning solution maps $\mathcal{G}: a \mapsto u$ 
 for SIMD/GPU kernels.
 
 ### Selected work
-<!-- --> - [FFT-and-Wavelets](https://github.com/MarioDanielPanuco/FFT-and-Wavelets) — Fourier vs. wavelet neural operators on PDE benchmarks (JAX) 
+<!-- - [FFT-and-Wavelets](https://github.com/MarioDanielPanuco/FFT-and-Wavelets) — Fourier vs. wavelet neural operators on PDE benchmarks (JAX)  --> 
 - [resolvent](https://github.com/MarioDanielPanuco/resolvent) — graph-diffused risk scoring via the regularized Laplacian resolvent $(I+\beta L)^{-1}$ (JAX)
 - [Computational-Genomics-Mojo](https://github.com/MarioDanielPanuco/Computational-Genomics-Mojo) — 2-bit packed DNA, k-mer analysis, alignment and windowed statistics with CPU references and GPU kernels (Mojo)
 - [anna-tui](https://github.com/MarioDanielPanuco/anna-tui) — cross-platform TUI/CLI client for Anna's Archive with resumable and torrent downloads (Rust)
