@@ -5,8 +5,8 @@ MS in Scientific Computing & Applied Mathematics (UCSC).
 **Research** — neural operators for PDE surrogates, pseudo-spectral solvers,
 chaotic-system evaluation — learning solution maps $\mathcal{G}: a \mapsto u$ via spectral convolutions $\mathcal{F}^{-1}\big(R_\theta \cdot \mathcal{F}v\big)$ and their wavelet analogues. Articles at [mdpan.dev](https://mdpan.dev).
 
-**Engineering** — Rust for tooling and TUIs, JAX/Julia on GPU for experiments, Mojo
-for SIMD/GPU kernels, TypeScript for MCP servers.
+**Engineering** — Rust for tooling and TUIs, C++/JAX/Julia for HPC/GPU experiments, and CUDA/Mojo
+for SIMD/GPU kernels.
 
 ### Selected work
 - [FFT-and-Wavelets](https://github.com/MarioDanielPanuco/FFT-and-Wavelets) — Fourier vs. wavelet neural operators on PDE benchmarks (JAX)
@@ -23,4 +23,4 @@ for SIMD/GPU kernels, TypeScript for MCP servers.
 - [Graph Diffusion for Payment-Integrity Risk Scoring](https://mdpan.dev/projects/graph-diffusion-payment-integrity/) — Jun 14, 2026
 <!-- BLOG-POST-LIST:END -->
 
-Santa Cruz / San Jose · mdpanuco@gmail.com
+CA · mdpanuco@gmail.com
