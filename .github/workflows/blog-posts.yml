@@ -12,7 +12,7 @@ jobs:
       - uses: actions/checkout@v4
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://mdpan.dev/posts/atom.xml"
+          feed_list: "https://mdpan.dev/atom.xml"
           max_post_count: 5
           template: "- [$title]($url) — $date$newline"
           date_format: "mmm d, yyyy"
