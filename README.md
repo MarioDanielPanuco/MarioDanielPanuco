@@ -16,11 +16,11 @@ for SIMD/GPU kernels.
 - [cider-mcp](https://github.com/MarioDanielPanuco/cider-mcp) — MCP server giving agents control of Cider 4 / Apple Music: playback, queue, library, catalog search (TypeScript)
 
 ### Latest from mdpan.dev
-<!-- BLOG-POST-LIST:START -->- [Cider-MCP](https://mdpan.dev/projects/cider-mcp/) — Aug 18, 2026
+<!-- BLOG-POST-LIST:START -->- [alta.engineering](https://mdpan.dev/projects/alta-engineering/) — Sep 30, 2026
+- [Cider-MCP](https://mdpan.dev/projects/cider-mcp/) — Aug 18, 2026
 - [Beyond Fourier: Wavelets and a Crash Course on Wavelet Neural Operators](https://mdpan.dev/posts/post-3-wavelets-wno/) — Jul 4, 2026
 - [From Series to Samples: the DFT, the FFT, and Why Convolution Is Multiplication](https://mdpan.dev/posts/post-2-dft-fft/) — Jul 3, 2026
 - [Heat, Circles, and Euler&#39;s Formula](https://mdpan.dev/posts/post-1-origins/) — Jul 2, 2026
-- [Graph Diffusion for Payment-Integrity Risk Scoring](https://mdpan.dev/projects/graph-diffusion-payment-integrity/) — Jun 14, 2026
 <!-- BLOG-POST-LIST:END -->
 
 CA · mdpanuco@gmail.com
